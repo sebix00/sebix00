@@ -22,8 +22,7 @@
 ## Projects
 
 <p><b>Spotify Finder </b></p>
-< /br>
-<a href = "https://github.com/sebix00/spotify-api">Repository </a>
+<p><a href = "https://github.com/sebix00/spotify-api" target="_blank" >Repository </a></p>
 Both server and client app. Spotify Finder allows you to search the songs of selected artists, listen to available song fragments and save to a database of your favorite songs.
 <b>DEMO </b>
 <img src= "https://github.com/sebix00/spotify-api/blob/master/images/spotifyFinder.gif" alt="spotifyGif" />
