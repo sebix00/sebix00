@@ -42,7 +42,7 @@ GitFinder use Github Api to fetch data from the server. GitFinder allows you to 
 <img src="https://github.com/sebix00/git-finder/blob/master/images/GitFinder.gif" alt="gitFinderGif" />
 
 <h3>Leading Page </h3>
-p>Live: <a href="https://goofy-edison-c889ec.netlify.app">Live</a></p>
+<p>Live: <a href="https://goofy-edison-c889ec.netlify.app">Live</a></p>
 <p>Repository: <a href="https://github.com/sebix00/template">Repository</a></p>
 A simple responsive landing page based on the design which I found online. In this project, I wanted to focus on mapping the template and the greatest aesthetics of work.
 <h4>Demo</h4>
