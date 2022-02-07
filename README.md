@@ -1,4 +1,4 @@
-### Hi ther, I'm Sebastian Ptasznik 👋
+### Hi there, I'm Sebastian Ptasznik 👋
 
 - 🌱 I’m currently learning React
 - 👀 I'm intrested in React
